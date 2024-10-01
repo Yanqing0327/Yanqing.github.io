@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Yanqing's homepage"
 description              : "Ph.D. student at UCSC. Focusing on Vision and Langugae."
 repository               : "Yanqing0327/Yanqing.github.io"
 google_scholar_stats_use_cdn : true
