@@ -43,7 +43,7 @@ My research interest includes Vision &amp; Language, Multimodal Reprensentation 
 
 **Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Wei Jiang, Yang You
 
-[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - This work accelerates dataset distillation by over **8x**, significantly improving efficiency.
 </div>
 </div>
@@ -55,7 +55,7 @@ My research interest includes Vision &amp; Language, Multimodal Reprensentation 
 
 **Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You
 
-[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:d1gkVwhDpl0C'></span></strong>
 - This work presents the extended version of DREAM, achieving a remarkable **15x acceleration** in dataset distillation.
 </div>
 </div>
@@ -67,7 +67,7 @@ My research interest includes Vision &amp; Language, Multimodal Reprensentation 
 
 **Yanqing Liu**, Kai Wang, Wenqi Shao, Ping Luo, Yu Qiao, Mike Zheng Shou, Kaipeng Zhang, Yang You
 
-[**Github**](https://github.com/Yanqing0327/MLLMs-Augmented) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/Yanqing0327/MLLMs-Augmented) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This work demonstrates the potential of Multimodal Large Language Models (MLLMs) to significantly enhance vision-language pre-training.
 </div>
 </div>
