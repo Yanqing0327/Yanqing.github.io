@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanqing's homepage"
+title                    : "Yanqing Liu"
 description              : "Ph.D. student at UCSC. Focusing on Vision and Langugae."
 repository               : "Yanqing0327/Yanqing.github.io"
 google_scholar_stats_use_cdn : true
@@ -57,6 +57,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  
+url: "https://yanqing0327.github.io"
+baseurl: "/Yanqing.github.io"
 
 
 # Reading Files

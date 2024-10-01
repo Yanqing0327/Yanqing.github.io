@@ -1,16 +1,15 @@
-# main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "{{ site.baseurl }}/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "{{ site.baseurl }}/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "{{ site.baseurl }}/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "{{ site.baseurl }}/#educations"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "{{ site.baseurl }}/#internships"
