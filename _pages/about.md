@@ -25,7 +25,7 @@ My research interest includes Vision &amp; Language, Multimodal Reprensentation 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# <h2 id="news">🔥 News</h2>
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 - *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets!
 - *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x!
