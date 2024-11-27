@@ -26,37 +26,25 @@ My research interest includes Vision &amp; Language, Foundation Model and Data-c
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
-- *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets!
-- *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x!
+- *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets.
+- *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x.
 - *2023.10*: &nbsp; I arrived in Paris for the ICCV 2023 conference. 
 - *2023.08*: &nbsp;🚀 I join HPC-AI Lab at NUS as a research assistant. 
 - *2023.07*: &nbsp;🎉 DREAM was accepted by ICCV 2023! 
-- *2023.05*: &nbsp;🚀 I join Shanghai AI Lab as a research intern. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/DREAM_ICCV_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/clips.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DREAM: Efficient Dataset Distillation by Representative Matching](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_DREAM_Efficient_Dataset_Distillation_by_Representative_Matching_ICCV_2023_paper.pdf)
+[CLIPS: An Enhanced CLIP Framework for Learning with Synthetic Captions](https://arxiv.org/pdf/2411.16828)
 
-**Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Wei Jiang, Yang You
+**Yanqing Liu**, Xianhang Li, Zeyu Wang, Bingchen Zhao, Cihang Xie
 
-[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
-- This work accelerates dataset distillation by over **8x**, significantly improving efficiency.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pipeline_new.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/pdf/2310.15052)
-
-**Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You
-
-[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:d1gkVwhDpl0C'></span></strong>
-- This work presents the extended version of DREAM, achieving a remarkable **15x acceleration** in dataset distillation.
+[**Github**](https://github.com/UCSC-VLAA/CLIPS) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
+- This work introduces two simple yet effective designs to better leverage richly described synthetic captions, achieving state-of-the-art (SOTA) results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhancing the visual capability of LLaVA.
 </div>
 </div>
 
@@ -72,6 +60,29 @@ My research interest includes Vision &amp; Language, Foundation Model and Data-c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pipeline_new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/pdf/2310.15052)
+
+**Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You
+
+[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:d1gkVwhDpl0C'></span></strong>
+- This work presents the extended version of DREAM, achieving a remarkable **15x acceleration** in dataset distillation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/DREAM_ICCV_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DREAM: Efficient Dataset Distillation by Representative Matching](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_DREAM_Efficient_Dataset_Distillation_by_Representative_Matching_ICCV_2023_paper.pdf)
+
+**Yanqing Liu**, Jianyang Gu, Kai Wang, Zheng Zhu, Wei Jiang, Yang You
+
+[**Github**](https://github.com/Yanqing0327/DREAM) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
+- This work accelerates dataset distillation by over **8x**, significantly improving efficiency.
+</div>
+</div>
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
