@@ -26,7 +26,7 @@ My research interest includes Vision &amp; Language, Foundation Model and Data-c
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
+- *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 - *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets.
 - *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x.
