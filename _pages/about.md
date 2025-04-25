@@ -20,19 +20,17 @@ redirect_from:
 I'm a first-year Ph.D. student at [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I spent wonderful time at National University of Singapore, Shanghai AI Lab and PhiGent Robotics.
 
 My research interest includes Vision &amp; Language, Foundation Model and Data-centric AI. 
+In summer 2025, I will join Google as a Student Researcher.
 
-<span style="color: red;">I am open for collaborations in research. Also, I am looking for potential research intern positions in the summer of 2025.</span>
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.06*: &nbsp; ✨ I will join Google as a Student Researcher in the Sunnyvale office!
 - *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 - *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets.
 - *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x.
-- *2023.10*: &nbsp; I arrived in Paris for the ICCV 2023 conference. 
-- *2023.08*: &nbsp;🚀 I join HPC-AI Lab at NUS as a research assistant. 
-- *2023.07*: &nbsp;🎉 DREAM was accepted by ICCV 2023! 
 
 # 📝 Publications 
 
