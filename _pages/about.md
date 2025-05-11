@@ -34,6 +34,18 @@ In summer 2025, I will join Google as a Student Researcher.
 - *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/openvision_teaser_v1.3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning](https://arxiv.org/abs/2505.04601)
+
+Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cihang Xie  
+<sup>*</sup>Equal contribution
+
+[**Github**](https://github.com/UCSC-VLAA/OpenVision) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
+- TL;DR: OpenVision is a fully-open and cost-effective vision encoder family that matches or surpasses proprietary models like OpenAI's CLIP and Google's SigLIP in multimodal tasks, offering over 25 models from 5.9M to 632M parameters for flexible deployment.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/clips.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
