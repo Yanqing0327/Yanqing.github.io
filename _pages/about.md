@@ -27,7 +27,8 @@ In summer 2025, I will join Google as a Student Researcher.
 
 
 # 🔥 News
-- *2025.06*: &nbsp; ✨ I will join Google as a Student Researcher in the Sunnyvale office!
+- *2025.05*: &nbsp;🖼️ We release [**OpenVision**](https://ucsc-vlaa.github.io/OpenVision), a fully-open and cost-effective family of vision encoders that match or outperform proprietary models like OpenAI's CLIP and Google’s SigLIP in multimodal tasks!
+- *2025.04*: &nbsp; ✨ I will join Google as a Student Researcher in the Sunnyvale office!
 - *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 - *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets.
