@@ -31,8 +31,6 @@ In summer 2025, I will join Google as a Student Researcher.
 - *2025.04*: &nbsp; ✨ I will join Google as a Student Researcher in the Sunnyvale office!
 - *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
-- *2023.11*: &nbsp; New preprint of MLLMs-Augmented Visual-Language Representation Learning, along with code and datasets.
-- *2023.10*: &nbsp; New preprint of the extended version of DREAM (DREAM+), accelerating dataset distillation by 15x.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/openvision_teaser_v1.3.png' alt="sym" width="100%"></div></div>
@@ -113,4 +111,4 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 - *2023.01 - 2023.04*, [PhiGent Robotics](https://www.phigent.ai/en/), China.
 
 # 📂 Activities
-- Reviewer of CVPR 2024, Neurips 2024, AAAI 2025, AISTATS 2025
+- Reviewer of CVPR 2024-2025, ICCV 2025, Neurips 2024, AAAI 2025, AISTATS 2025
