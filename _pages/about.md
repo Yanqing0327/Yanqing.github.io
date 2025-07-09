@@ -33,7 +33,7 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/openvision_teaser_v1.3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/openvision_teaser_v1.3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning](https://arxiv.org/abs/2505.04601)
