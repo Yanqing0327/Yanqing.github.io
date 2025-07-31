@@ -19,8 +19,7 @@ redirect_from:
 
 I'm a first-year Ph.D. student at [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I spent wonderful time at National University of Singapore, Shanghai AI Lab and PhiGent Robotics.
 
-My research focuses on **multimodal learning**, **vision-language pretraining**, and **vision foundation models**.  
-I'm particularly interested in developing **vision-centric models** that serve as general-purpose backbones in multimodal systems. I aim to build scalable and adaptable vision encoders that deeply understand visual inputs and interface naturally with language, enabling broader reasoning and interaction.
+My research focuses on **multimodal learning**, **vision-language pretraining**, and **vision foundation models**. I'm particularly interested in developing **vision-centric models** that serve as general-purpose backbones in multimodal systems. I aim to build scalable and adaptable vision encoders that deeply understand visual inputs and interface naturally with language, enabling broader reasoning and interaction.
 
 I am currently a Student Researcher at Google, working on generative AI for video creation.
 
