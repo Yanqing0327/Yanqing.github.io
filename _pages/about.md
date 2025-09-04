@@ -39,7 +39,7 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 
 [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](https://arxiv.org/abs/2509.01644)
 
-**Yanqing Liu**, Xianhang Li, Haoqin Tu, Hongru Zhu, Cihang Xie  
+**Yanqing Liu**, Xianhang Li, Letian Zhang, Zirui Wang, Zeyu Zheng, Yuyin Zhou, Cihang Xie  
 
 [**Github**](https://github.com/UCSC-VLAA/OpenVision) &nbsp; [**Models**](https://huggingface.co/collections/UCSC-VLAA/openvision-2-68ab5934fe21f3fc463077da)
 - TL;DR: OpenVision 2 introduces a **generative-only training paradigm** (no contrastive loss) for vision encoders, scaling beyond 1B parameters with synthetic captions, improving efficiency by 1.5× and memory by 1.8×, while achieving strong performance on OCR and multimodal benchmarks.
