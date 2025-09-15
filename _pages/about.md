@@ -124,4 +124,4 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 - *2023.01 - 2023.04*, [PhiGent Robotics](https://www.phigent.ai/en/), China.
 
 # 📂 Activities
-- Reviewer of CVPR 2024-2025, ICCV 2025, Neurips 2024, AAAI 2025-2026, AISTATS 2025-2026
+- Reviewer of CVPR 2024-2026, ICCV 2025, Neurips 2024, AAAI 2025-2026, AISTATS 2025-2026
