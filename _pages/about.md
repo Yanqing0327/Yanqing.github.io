@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year Ph.D. student at [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I spent wonderful time at National University of Singapore, Shanghai AI Lab and PhiGent Robotics.
+I'm a second-year Ph.D. student at [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I spent wonderful time at National University of Singapore, Shanghai AI Lab and PhiGent Robotics.
 
 My research focuses on **multimodal learning**, **vision-language pretraining**, and **vision foundation models**. I'm particularly interested in developing **vision-centric models** that serve as general-purpose backbones in multimodal systems. I aim to build scalable and adaptable vision encoders that deeply understand visual inputs and interface naturally with language, enabling broader reasoning and interaction.
 
@@ -111,7 +111,7 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - now*,     Ph.D. student, University of California, Santa Cruz. 
+- *2024.09 - present*,     Ph.D. student, University of California, Santa Cruz. 
 - *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Technology, Zhejiang Univeristy, Hangzhou.
 
 <!-- # 💬 Invited Talks
@@ -119,6 +119,7 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.06 - now*, [Google](https://research.google/), Sunnyvale, USA.
 - *2023.08 - 2024.06*, [National University of Singapore](https://nus.edu.sg/), Singapore.
 - *2023.05 - 2024.06*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
 - *2023.01 - 2023.04*, [PhiGent Robotics](https://www.phigent.ai/en/), China.
