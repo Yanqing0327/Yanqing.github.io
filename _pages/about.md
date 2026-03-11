@@ -27,6 +27,7 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎬 We release [**CAST**](https://ucsc-vlaa.github.io/CAST/), which formulates Consistent Video Retrieval and introduces a lightweight state-transition adapter for sequentially consistent video retrieval and state-aware video generation guidance!
 - *2026.02*: 🎉 OpenVision 2 is accepted to CVPR 2026!
 - *2025.09*: &nbsp;🚀 We release [**OpenVision 2**](https://ucsc-vlaa.github.io/OpenVision2/), a family of generative pretrained vision encoders that scales beyond 1B parameters, achieves strong OCR performance, and demonstrates the efficiency and viability of caption-only pretraining!
 - *2025.05*: &nbsp;🖼️ We release [**OpenVision**](https://ucsc-vlaa.github.io/OpenVision), a fully-open and cost-effective family of vision encoders that match or outperform proprietary models like OpenAI's CLIP and Google’s SigLIP in multimodal tasks!
@@ -35,6 +36,18 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cast_teaser.png' alt="CAST teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648)
+
+**Yanqing Liu**, Yingcheng Liu, Fanghong Dong, Budianto Budianto, Cihang Xie, Yan Jiao
+
+[**Project**](https://ucsc-vlaa.github.io/CAST/) &nbsp; [**Paper**](https://arxiv.org/pdf/2603.08648)
+- TL;DR: CAST formulates **Consistent Video Retrieval (CVR)** and introduces a lightweight, plug-and-play state-transition adapter over frozen video-language embeddings, improving sequentially consistent retrieval and helping rerank black-box video generation candidates for more coherent continuations.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/openvision2_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
