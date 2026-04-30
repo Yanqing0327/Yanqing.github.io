@@ -27,6 +27,8 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 
 
 # 🔥 News
+
+- *2026.04*: &nbsp;🎉 [**CAST**](https://ucsc-vlaa.github.io/CAST/) is accepted to ICML 2026!
 - *2026.03*: &nbsp;🎬 We release [**CAST**](https://ucsc-vlaa.github.io/CAST/), which formulates Consistent Video Retrieval and introduces a lightweight state-transition adapter for sequentially consistent video retrieval and state-aware video generation guidance!
 - *2026.02*: 🎉 OpenVision 2 is accepted to CVPR 2026!
 - *2025.09*: &nbsp;🚀 We release [**OpenVision 2**](https://ucsc-vlaa.github.io/OpenVision2/), a family of generative pretrained vision encoders that scales beyond 1B parameters, achieves strong OCR performance, and demonstrates the efficiency and viability of caption-only pretraining!
@@ -36,7 +38,8 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 - *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cast_teaser.png' alt="CAST teaser" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/cast_teaser.png' alt="CAST teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648)
