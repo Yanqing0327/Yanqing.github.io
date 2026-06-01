@@ -46,7 +46,7 @@ I am currently a Student Researcher at Google, working on generative AI for vide
 
 **Yanqing Liu**, Yingcheng Liu, Fanghong Dong, Budianto Budianto, Cihang Xie, Yan Jiao
 
-[**Project**](https://ucsc-vlaa.github.io/CAST/) &nbsp; [**Paper**](https://arxiv.org/pdf/2603.08648)
+[**Project**](https://ucsc-vlaa.github.io/CAST/) &nbsp; [**Paper**](https://arxiv.org/pdf/2603.08648) &nbsp; [**Github**](https://github.com/Yanqing0327/CAST-CVR)
 - TL;DR: CAST formulates **Consistent Video Retrieval (CVR)** and introduces a lightweight, plug-and-play state-transition adapter over frozen video-language embeddings, improving sequentially consistent retrieval and helping rerank black-box video generation candidates for more coherent continuations.
 </div>
 </div>
