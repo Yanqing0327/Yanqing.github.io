@@ -17,25 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second-year Ph.D. student at [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I spent wonderful time at National University of Singapore, Shanghai AI Lab and PhiGent Robotics.
+I'm a second-year Ph.D. student at the [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I conducted research at the National University of Singapore, Shanghai AI Lab, and PhiGent Robotics.
 
-My research focuses on **multimodal learning**, **vision-language pretraining**, and **vision foundation models**. I'm particularly interested in developing **vision-centric models** that serve as general-purpose backbones in multimodal systems. I aim to build scalable and adaptable vision encoders that deeply understand visual inputs and interface naturally with language, enabling broader reasoning and interaction.
+My research centers on **visual representation learning** and **vision foundation models**. I study the principles of large-scale visual pretraining across vision-language and self-supervised learning, aiming to learn general representations that capture the semantics, structure, and dynamics of the visual world. My long-term goal is to establish such representations as a foundation for multimodal intelligence and world models.
 
-I am currently a Student Researcher at Google, working on generative AI for video creation.
+I am currently a Student Researcher at Google, working on Gemini post-training.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
 
+- *2026.06*: &nbsp;✨ I started a new Student Researcher project at Google, working on Gemini post-training.
 - *2026.04*: &nbsp;🎉 [**CAST**](https://ucsc-vlaa.github.io/CAST/) is accepted to ICML 2026!
 - *2026.03*: &nbsp;🎬 We release [**CAST**](https://ucsc-vlaa.github.io/CAST/), which formulates Consistent Video Retrieval and introduces a lightweight state-transition adapter for sequentially consistent video retrieval and state-aware video generation guidance!
 - *2026.02*: 🎉 OpenVision 2 is accepted to CVPR 2026!
 - *2025.09*: &nbsp;🚀 We release [**OpenVision 2**](https://ucsc-vlaa.github.io/OpenVision2/), a family of generative pretrained vision encoders that scales beyond 1B parameters, achieves strong OCR performance, and demonstrates the efficiency and viability of caption-only pretraining!
 - *2025.05*: &nbsp;🖼️ We release [**OpenVision**](https://ucsc-vlaa.github.io/OpenVision), a fully-open and cost-effective family of vision encoders that match or outperform proprietary models like OpenAI's CLIP and Google’s SigLIP in multimodal tasks!
-- *2025.04*: &nbsp; ✨ I will join Google as a Student Researcher in the Sunnyvale office!
 - *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
-- *2024.09*: &nbsp;🚀 I join VLAA Lab at UCSC as a Ph.D. student!
 
 # 📝 Publications 
 
@@ -127,16 +126,19 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 📖 Education
 - *2024.09 - present*,     Ph.D. student, University of California, Santa Cruz. 
-- *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Technology, Zhejiang Univeristy, Hangzhou.
+- *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Technology, Zhejiang University, Hangzhou.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.06 - now*, [Google](https://research.google/), Sunnyvale, USA.
+- *2026.06 - present*, Student Researcher, [Google](https://research.google/), Sunnyvale, USA.  
+  Gemini post-training.
+- *2025.06 - 2026.05*, Student Researcher, [Google](https://research.google/), Sunnyvale, USA.  
+  Video understanding and generation.
 - *2023.08 - 2024.06*, [National University of Singapore](https://nus.edu.sg/), Singapore.
 - *2023.05 - 2024.06*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
 - *2023.01 - 2023.04*, [PhiGent Robotics](https://www.phigent.ai/en/), China.
