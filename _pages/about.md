@@ -23,6 +23,8 @@ My research centers on **visual representation learning** and **vision foundatio
 
 I am currently a Student Researcher at Google, working on Gemini post-training.
 
+I am always open to collaboration with motivated students and researchers interested in scalable visual and multimodal pretraining, visual representation learning, and foundation models. If you are excited about scaling up pretraining systems and developing impactful research around vision, language, and world models, please feel free to reach out.
+
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
