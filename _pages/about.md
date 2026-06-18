@@ -21,9 +21,12 @@ I'm a second-year Ph.D. student at the [University of California, Santa Cruz](ht
 
 My research centers on **visual representation learning** and **vision foundation models**. I study the principles of large-scale visual pretraining across vision-language and self-supervised learning, aiming to learn general representations that capture the semantics, structure, and dynamics of the visual world. My long-term goal is to establish such representations as a foundation for multimodal intelligence and world models.
 
-I am currently a Student Researcher at Google, working on Gemini post-training.
+I am currently a Student Researcher at Google, working on **Gemini post-training**.
 
-I am always open to collaboration with motivated students and researchers interested in scalable visual and multimodal pretraining, visual representation learning, and foundation models. If you are excited about scaling up pretraining systems and developing impactful research around vision, language, and world models, please feel free to reach out.
+<div style="border-left: 4px solid #2f80ed; padding: 0.6em 1em; margin: 1em 0; background: #f7fbff;">
+<strong>Open to collaboration.</strong>
+I am always excited to work with motivated students and researchers interested in scalable visual and multimodal pretraining, visual representation learning, and foundation models. If you are interested in building impactful systems and research around vision, language, and world models, please feel free to reach out.
+</div>
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
