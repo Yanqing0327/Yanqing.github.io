@@ -50,7 +50,7 @@ I am always excited to work with motivated students and researchers interested i
 
 **Yanqing Liu**, Yingcheng Liu, Fanghong Dong, Budianto Budianto, Cihang Xie, Yan Jiao
 
-[**Project**](https://ucsc-vlaa.github.io/CAST/) &nbsp; [**Paper**](https://arxiv.org/pdf/2603.08648) &nbsp; [**Github**](https://github.com/Yanqing0327/CAST-CVR)
+[**Project**](https://ucsc-vlaa.github.io/CAST/) &nbsp; [**Paper**](https://arxiv.org/pdf/2603.08648) &nbsp; [**Github**](https://github.com/Yanqing0327/CAST-CVR) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:W7OEmFMy1HYC'></span></strong>
 - TL;DR: CAST formulates **Consistent Video Retrieval (CVR)** and introduces a lightweight, plug-and-play state-transition adapter over frozen video-language embeddings, improving sequentially consistent retrieval and helping rerank black-box video generation candidates for more coherent continuations.
 </div>
 </div>
@@ -62,7 +62,7 @@ I am always excited to work with motivated students and researchers interested i
 
 **Yanqing Liu**, Xianhang Li, Letian Zhang, Zirui Wang, Zeyu Zheng, Yuyin Zhou, Cihang Xie  
 
-[**Github**](https://github.com/UCSC-VLAA/OpenVision) &nbsp; [**Models**](https://huggingface.co/collections/UCSC-VLAA/openvision-2-68ab5934fe21f3fc463077da)
+[**Github**](https://github.com/UCSC-VLAA/OpenVision) &nbsp; [**Models**](https://huggingface.co/collections/UCSC-VLAA/openvision-2-68ab5934fe21f3fc463077da) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:UeHWp8X0CEIC'></span></strong>
 - TL;DR: OpenVision 2 introduces a **generative-only training paradigm** (no contrastive loss) for vision encoders, scaling beyond 1B parameters with synthetic captions, improving efficiency by 1.5× and memory by 1.8×, while achieving strong performance on OCR and multimodal benchmarks.
 </div>
 </div>
@@ -75,7 +75,7 @@ I am always excited to work with motivated students and researchers interested i
 Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cihang Xie  
 <sup>*</sup>Equal contribution
 
-[**Github**](https://github.com/UCSC-VLAA/OpenVision) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Github**](https://github.com/UCSC-VLAA/OpenVision) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:qjMakFHDy7sC'></span></strong>
 - TL;DR: OpenVision is a fully-open and cost-effective vision encoder family that matches or surpasses proprietary models like OpenAI's CLIP and Google's SigLIP in multimodal tasks, offering over 25 models from 5.9M to 632M parameters for flexible deployment.
 </div>
 </div>
@@ -87,7 +87,7 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 
 **Yanqing Liu**, Xianhang Li, Zeyu Wang, Bingchen Zhao, Cihang Xie
 
-[**Github**](https://github.com/UCSC-VLAA/CLIPS) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Github**](https://github.com/UCSC-VLAA/CLIPS) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:2osOgNQ5qMEC'></span></strong>
 - This work introduces two simple yet effective designs to better leverage richly described synthetic captions, achieving state-of-the-art (SOTA) results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhancing the visual capability of LLaVA.
 </div>
 </div>
