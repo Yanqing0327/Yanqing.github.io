@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second-year Ph.D. student at the [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I conducted research at the National University of Singapore, Shanghai AI Lab, and PhiGent Robotics.
+I'm a third-year Ph.D. student at the [University of California, Santa Cruz](https://www.ucsc.edu/), where I am fortunate to be advised by [Prof. Cihang Xie](https://cihangxie.github.io). I received my B.S. degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2023. Previously, I conducted research at the National University of Singapore, Shanghai AI Lab, and PhiGent Robotics.
 
 My research centers on **visual representation learning** and **vision foundation models**. I study the principles of large-scale visual pretraining across vision-language and self-supervised learning, aiming to learn general representations that capture the semantics, structure, and dynamics of the visual world. My long-term goal is to establish such representations as a foundation for multimodal intelligence and world models.
 
