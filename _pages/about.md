@@ -21,7 +21,7 @@ I'm a third-year Ph.D. student at the [University of California, Santa Cruz](htt
 
 My research centers on **visual representation learning** and **vision foundation models**. I study the principles of large-scale visual pretraining across vision-language and self-supervised learning, aiming to learn general representations that capture the semantics, structure, and dynamics of the visual world. My long-term goal is to establish such representations as a foundation for multimodal intelligence and world models.
 
-I am currently a Student Researcher at Google, working on **Gemini post-training**.
+I am currently a Student Researcher at Google, working in the **Gemini tuning quality team**.
 
 <div style="border-left: 4px solid #2f80ed; padding: 0.6em 1em; margin: 1em 0; background: #f7fbff;">
 <strong>Open to collaboration.</strong>
@@ -33,7 +33,8 @@ I am always excited to work with motivated students and researchers interested i
 
 # 🔥 News
 
-- *2026.06*: &nbsp;✨ I started a new Student Researcher project at Google, working on Gemini post-training.
+- *2026.10*: &nbsp;🏔️ We release [**ALPS**](https://ucsc-vlaa.github.io/ALPS/), a pretrained visual state encoder for world models that unifies physical-state information, native language alignment, and pixel reconstruction in a single set of patch tokens!
+- *2026.06*: &nbsp;✨ I started a new Student Researcher project at Google, working in the Gemini tuning quality team.
 - *2026.04*: &nbsp;🎉 [**CAST**](https://ucsc-vlaa.github.io/CAST/) is accepted to ICML 2026!
 - *2026.03*: &nbsp;🎬 We release [**CAST**](https://ucsc-vlaa.github.io/CAST/), which formulates Consistent Video Retrieval and introduces a lightweight state-transition adapter for sequentially consistent video retrieval and state-aware video generation guidance!
 - *2026.02*: 🎉 OpenVision 2 is accepted to CVPR 2026!
@@ -42,6 +43,18 @@ I am always excited to work with motivated students and researchers interested i
 - *2024.11*: &nbsp;🚀 We release [CLIPS](https://ucsc-vlaa.github.io/CLIPS/), which achieves SOTA results in zero-shot image-text retrieval on MSCOCO and Flickr30K and enhances the visual capability of LLaVA.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/alps_teaser.jpg' alt="ALPS teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ALPS: Visual State Encoders for World Models](https://arxiv.org/abs/2610.30120)
+
+**Yanqing Liu**, Letian Zhang, Chengzhi Liu, Zijun Wang, Jieru Mei, Hongliang Fei, Yuyin Zhou, Cihang Xie
+
+[**Project**](https://ucsc-vlaa.github.io/ALPS/) &nbsp; [**Paper**](https://arxiv.org/pdf/2610.30120) &nbsp; [**Github**](https://github.com/UCSC-VLAA/ALPS) <strong><span class='show_paper_citations' data='2obvvPoAAAAJ:ufrVoPGSRksC'></span></strong>
+- TL;DR: ALPS is a pretrained **visual state encoder** for world models that unifies physical-state information, native language alignment, and pixel reconstruction in a single set of patch tokens.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/cast_teaser.png' alt="CAST teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -141,7 +154,7 @@ Xianhang Li<sup>*</sup>, **Yanqing Liu**<sup>*</sup>, Haoqin Tu, Hongru Zhu, Cih
 
 # 💻 Internships
 - *2026.06 - present*, Student Researcher, [Google](https://research.google/), Sunnyvale, USA.  
-  Gemini post-training.
+  Gemini tuning quality team.
 - *2025.06 - 2026.05*, Student Researcher, [Google](https://research.google/), Sunnyvale, USA.  
   Video understanding and generation.
 - *2023.08 - 2024.06*, [National University of Singapore](https://nus.edu.sg/), Singapore.
